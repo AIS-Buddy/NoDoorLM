@@ -7,7 +7,7 @@ To setup NoDoorLM first create a virtual environment in python 3.12
 python3.12 -m venv venv
 ```
 
-The activate it with 
+Then activate it with 
 
 ```bash
 source venv/bin/activate
